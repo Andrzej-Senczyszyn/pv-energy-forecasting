@@ -25,10 +25,6 @@ Data Visualization: matplotlib, seaborn
 
 Machine Learning: regression models, decision trees, random forest
 
-Project Structure
-kotlin
-Копіювати
-Редагувати
 pv-energy-forecasting/
 │
 ├── notebooks/
@@ -40,6 +36,7 @@ pv-energy-forecasting/
 ├── data/ (optional link or README with data description)
 ├── requirements.txt
 └── README.md
+
 How to Use
 Clone the repository
 
